@@ -257,7 +257,6 @@ img {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    border: 1px solid black;
   }
 }
 .home .content-section .text-content {
@@ -297,7 +296,6 @@ img {
 .home .content-destination {
   width: 75%;
   margin: 0 auto 30px;
-  border: 1px solid black;
 }
 @media (max-width: 500px) {
   .home .content-destination {
